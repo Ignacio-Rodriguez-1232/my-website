@@ -1,3 +1,12 @@
 body{
     background: grey;
 }
+
+.nav-menu{
+    background: rgba(0, 0, 0, 0.37);
+}
+.nav-menu ul{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
