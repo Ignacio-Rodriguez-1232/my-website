@@ -23,7 +23,7 @@ body{
     }
 
 .nav-menu ul li{
-    displa: flex;
+    display: flex;
     margin: 20px;
     list-style:none;
 }
